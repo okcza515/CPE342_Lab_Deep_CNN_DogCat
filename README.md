@@ -1,5 +1,5 @@
 # CPE342_Lab_Deep_CNN_DogCat
-is this homework lab of Data Model subject 
+is this homework lab of Machine Learning subject 
 
 the objective is to learn how Deep CNN works 
 
